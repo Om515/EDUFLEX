@@ -1,6 +1,6 @@
-# Project1 - Virtual Classroom & Learning Management System
+# EDUFLEX - Virtual Classroom & Learning Management System
 
-Project1 is a comprehensive Learning Management System (LMS) and Virtual Classroom application designed to facilitate real-time education, communication, and administration. It provides a robust platform for live classes, instant messaging, test management, and more.
+EDUFLEX is a comprehensive Learning Management System (LMS) and Virtual Classroom application designed to facilitate real-time education, communication, and administration. It provides a robust platform for live classes, instant messaging, test management, and more.
 
 ## 🏗️ System Architecture
 
